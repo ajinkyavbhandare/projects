@@ -39,5 +39,5 @@ Follow these steps to deploy the app with Kubernetes:
     ```bash
     kubectl apply -f deploy.yaml
     ```
-2. Access the app at: http://localhost:8501/
+Access the app at: http://localhost:8501/
 
