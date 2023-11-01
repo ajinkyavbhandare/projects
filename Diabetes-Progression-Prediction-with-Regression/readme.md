@@ -2,6 +2,8 @@
 
 This application predicts the progression of diabetes based on various health factors. It's built with Python and Streamlit, and can be run locally, in a Docker container, or deployed with Kubernetes.
 
+![app.py](https://github.com/ajinkyavbhandare/projects/blob/main/Diabetes-Progression-Prediction-with-Regression/images/app.png)
+
 ## Running the App Without Docker
 
 Follow these steps to run the app without Docker:
