@@ -4,7 +4,7 @@ This application predicts the progression of diabetes based on various health fa
 
 ![app.py](https://github.com/ajinkyavbhandare/projects/blob/main/Diabetes-Progression-Prediction-with-Regression/images/app.png)
 
-## Running the App Without Docker
+## Deploying the App With Streamlit
 
 Follow these steps to run the app without Docker:
 
