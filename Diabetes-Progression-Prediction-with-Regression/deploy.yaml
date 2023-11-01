@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: diabetic-pred-deployment
+  labels:
+    app: diabetic-pred
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: diabetic-pred
+  template:
+    metadata:
+      labels:
+        app: diabetic-pred
+    spec:
+      containers:
+      - name: diabetic-pred
+        image: daibetic_pred:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 8501
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: diabetic-pred-service
+spec:
+  selector:
+    app: diabetic-pred
+  type: LoadBalancer
+  ports:
+  - port: 8501
+    targetPort: 8501
