@@ -37,7 +37,8 @@ Follow these steps to run the app with Docker:
 
 Follow these steps to deploy the app with Kubernetes:
 
-1. Apply the deployment configuration:
+1. Change the name of the image in the deploy.yaml file.
+2. Apply the deployment configuration:
     ```bash
     kubectl apply -f deploy.yaml
     ```
