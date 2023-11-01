@@ -24,7 +24,7 @@ Follow these steps to run the app with Docker:
 2. Build the Docker image:
     ```bash
     cd ..
-    docker build -t diabetic_pred .
+    docker build -t diabetic_pred 
     ```
 3. Run the Docker container:
     ```bash
