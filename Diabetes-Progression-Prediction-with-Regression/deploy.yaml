@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: diabetic-pred
-        image: daibetic_pred:latest
+        image: diabetic_pred:latest
         imagePullPolicy: Never
         ports:
         - containerPort: 8501
