@@ -5,7 +5,8 @@
 
 - Generative Deep Learning
     - [Difission-models](/diffusion-models):
+
+ - Large Langauge Models
  
 - Reinforcement Learning
 
-- Large Langauge Models
