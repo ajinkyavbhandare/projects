@@ -5,7 +5,7 @@
 
 - Reinforcement Learning
 
-- Computer Vision and Image Processing
+- Computer Vision and Image Processing  
     -[Real-Time Emotional Analysis and Visualization]():
 
 - Generative Deep Learning
