@@ -5,7 +5,7 @@
 
 - Generative Deep Learning
     - [Difission-models](/diffusion-models):
-    - [Single-Block-Autoregressive-Text-Gen ](../Single-Block-Autoregressive-Text-Gen):
+    - [Single-Block-Autoregressive-Text-Gen ](https://github.com/ajinkyavbhandare/Single-Block-Autoregressive-Text-Gen):
 
  - Large Langauge Models
  
