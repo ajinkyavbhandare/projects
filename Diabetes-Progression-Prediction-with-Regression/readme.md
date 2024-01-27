@@ -2,6 +2,21 @@
 
 This application predicts the progression of diabetes based on various health factors. It's built with Python and Streamlit, and can be run locally, in a Docker container, or deployed with Kubernetes.
 
+## Installation
+1. Navigate to the directory containing your Streamlit app.
+2. Install the required packages using pip:
+
+    ```bash
+    $ pip install -r requirements.txt
+    ```
+3. Run the Streamlit app:
+
+    ```bash
+    $ streamlit run app.py
+    ```
+
+    The Streamlit app is now running and can be accessed at http://localhost:5000 in your web browser.
+
 ![app.py](https://github.com/ajinkyavbhandare/projects/blob/main/Diabetes-Progression-Prediction-with-Regression/images/app.png)
 
 ## Deploying the App With Streamlit
