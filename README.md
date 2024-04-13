@@ -7,7 +7,7 @@
 ## Reinforcement Learning
 
 
-## Natual Lnaguage Processing
+## Natual Language Processing
 **1. SoVits_Voice_Conversion_API:** The FastAPI-powered SoVits API transforms speech into your chosen speaker's voice. You can upload, customize, and download it [click here](https://github.com/ajinkyavbhandare/SoVits_Voice_Conversion_API).
 
 
