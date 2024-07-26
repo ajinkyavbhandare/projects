@@ -17,7 +17,7 @@
 
 
 ### Generative Deep Learning
-- **Single-Block-Autoregressive-Text-Gen:** This Streamlit app showcases a compact GPT-based autoregressive language model [click here](https://github.com/ajinkyavbhandare/Single-Block-Autoregressive-Text-Gen).
+- **Single-Block-Autoregressive-Text-Gen:** This Streamlit app showcases a compact GPT-based autoregressive language model  It's built with Python and Streamlit, and can be run locally, in a Docker container, or deployed with Kubernetes [click here](https://github.com/ajinkyavbhandare/Single-Block-Autoregressive-Text-Gen).
 <!---   
 - **Difission-models:** [click here](/diffusion-models)
  --->
