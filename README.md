@@ -17,7 +17,9 @@
 
 
 ## Generative Deep Learning
-- **[Single-Block-Autoregressive-Text-Gen:** This Streamlit app showcases a compact GPT-based autoregressive language model [click here](https://github.com/ajinkyavbhandare/Single-Block-Autoregressive-Text-Gen).
+- **Single-Block-Autoregressive-Text-Gen:** This Streamlit app showcases a compact GPT-based autoregressive language model [click here](https://github.com/ajinkyavbhandare/Single-Block-Autoregressive-Text-Gen).
+
+- **Fine-tune Mistral-7B-Instruct-v0.2 with Q-LoRA for chat⚡️**: finetuning mistralai/Mistral-7B-Instruct-v0.2 open source LLM model for conversational usecase [click here](https://www.kaggle.com/code/ajinkyabhandare2002/fine-tune-mistral-7b-instruct-v0-2-with-q-lora)
    
 - **Difission-models:** [click here](/diffusion-models)
 
