@@ -8,8 +8,6 @@
 
 
 ### Natual Language Processing
-<!---
-   - **SoVits_Voice_Conversion_API:** The FastAPI-powered SoVits API transforms speech into your chosen speaker's voice. You can upload, customize, and download it [click here](https://github.com/ajinkyavbhandare/SoVits_Voice_Conversion_API). --->
 
 
 ### Computer Vision and Image Processing  
