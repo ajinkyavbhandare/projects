@@ -15,7 +15,7 @@
 
 
 ### Generative Deep Learning
-- **Single-Block-Autoregressive-Text-Gen (next word prediction):** This Streamlit app showcases a compact GPT-based autoregressive language model  It's built with Python and Streamlit, and can be run locally, in a Docker container, or deployed with Kubernetes [click here](https://github.com/ajinkyavbhandare/Single-Block-Autoregressive-Text-Gen).
+- **Single-Block-Autoregressive-Text-Gen (next word prediction):** This Streamlit app showcases a compact GPT-based autoregressive language model  It's built with Python and Streamlit, and can be run locally, in a Docker container, or deployed with Kubernetes [click here](https://github.com/ajinkyavbhandare/Next-Word-Prediction-with-Decoder-Only-Transformer).
 <!---   
 - **Difission-models:** [click here](/diffusion-models)
  --->
