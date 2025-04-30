@@ -26,5 +26,9 @@
 - **graph rag with neo4j resume search poc**: A proof-of-concept integrating Neo4j graph database and LangChain to enable intelligent resume search through graph relationships and retrieval-augmented generation. Built with Cypher query engine. [click here](https://github.com/ajinkyavbhandare/graph-rag-with-neo4j-resume-search-poc)
 
 ### Data Engineering
+
+
+### Devops
+- **basic docker and kuberenetes deployment of ml model:** [click here](https://github.com/ajinkyavbhandare/projects/tree/main/Diabetes-Progression-Prediction-with-Regression)
  
 
