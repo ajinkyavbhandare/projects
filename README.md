@@ -11,6 +11,8 @@
 
 
 ### Computer Vision and Image Processing  
+- **Convert 2d video to the immersive 3d 180 video using opencv and python:**  A full-stack application for converting standard 2D videos into an immersive 180° VR format using a custom projection pipeline. Features a Next.js frontend, a Python/FastAPI backend with a GPU-accelerated conversion process, and Supabase for user management. [click here](https://github.com/ajinkyavbhandare/palacevr)
+  
 - **Real-Time Emotional Analysis and Visualization:**
 
 
