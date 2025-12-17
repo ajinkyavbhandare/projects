@@ -1,4 +1,4 @@
-# 🚀 AI & Software Engineering Portfolio
+# 🚀 Projects
 
 A curated collection of my work in Machine Learning, Generative AI, and DevOps.
 
